@@ -1,4 +1,4 @@
- This is simple eye_detector from images.we used dlib , opencv,utils for detecting eyes from images.
+ This is simple eye_detector from images.we used dlib , opencv, utils for detecting eyes from images.
 
 #installation
 
